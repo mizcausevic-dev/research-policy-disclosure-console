@@ -1,0 +1,36 @@
+{
+  "projects": [
+    {
+      "id": "RPD-5001",
+      "project": "Open Access Research Portal",
+      "investigator": "Dr. Lena Morris",
+      "institution": "Lakeshore University",
+      "owner": "Research Compliance",
+      "status": "ON_TRACK",
+      "workflowHealthy": true,
+      "daysToReview": 4,
+      "packet": "Disclosure review packet",
+      "excerpt": "Packet is complete and in committee review.",
+      "nextAction": "Hold for committee acknowledgment."
+    }
+  ],
+  "packets": [
+    {
+      "id": "PKT-900",
+      "projectId": "RPD-5001",
+      "project": "Open Access Research Portal",
+      "investigator": "Dr. Lena Morris",
+      "institution": "Lakeshore University",
+      "owner": "Research Compliance",
+      "domain": "COI",
+      "kind": "Disclosure",
+      "severity": "low",
+      "status": "RESOLVED",
+      "scope": "Annual disclosure review",
+      "principal": "COI appendix packet",
+      "message": "Disclosure packet is complete and closed.",
+      "openedAt": "2026-05-26T08:00:00Z",
+      "dueAt": "2026-05-30T17:00:00Z"
+    }
+  ]
+}
